@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Assignments: module-examples'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf
+file: /media/courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: moduleexamples.pdf
 uid: 352ab918-85c4-fd25-b492-0fa946e73d7f
