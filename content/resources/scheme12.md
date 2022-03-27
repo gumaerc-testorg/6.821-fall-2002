@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: af096f16-05cc-7b62-58d1-35bc8df43053
 resourcetype: Document
 title: scheme12.pdf
 uid: 67a55c1d-46c1-1a2e-e774-b7e184e3869c

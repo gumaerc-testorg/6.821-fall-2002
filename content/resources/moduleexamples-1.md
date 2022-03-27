@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Problem Set 4
-file: /media/courses/6-821-programming-languages-fall-2002/2c6d974b68645267c19c54a56a616f8a_13.pdf
+description: 'Assignments: module-examples'
+file: /media/courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
 resourcetype: Document
-title: 13.pdf
-uid: 2c6d974b-6864-5267-c19c-54a56a616f8a
+title: moduleexamples.pdf
+uid: 352ab918-85c4-fd25-b492-0fa946e73d7f
 ---

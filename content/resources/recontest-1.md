@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Problem Set 4
-file: /media/courses/6-821-programming-languages-fall-2002/2c6d974b68645267c19c54a56a616f8a_13.pdf
+description: 'Assignments: recon-test'
+file: /media/courses/6-821-programming-languages-fall-2002/df26a03c14b9ac07fffc153f3a667420_recontest.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
 resourcetype: Document
-title: 13.pdf
-uid: 2c6d974b-6864-5267-c19c-54a56a616f8a
+title: recontest.pdf
+uid: df26a03c-14b9-ac07-fffc-153f3a667420
 ---

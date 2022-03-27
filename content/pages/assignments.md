@@ -27,7 +27,7 @@ Supporting Files
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/06))
 {{< tdclose >}}
 {{< tdopen >}}
-postfix ([SCM](./resolveuid/d0654618b2d8c9c73c2854050579e1e2))
+postfix ([SCM]({{< baseurl >}}/resources/postfix))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ postfix ([SCM](./resolveuid/d0654618b2d8c9c73c2854050579e1e2))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/09))
 {{< tdclose >}}
 {{< tdopen >}}
-ps2 ([SCM](./resolveuid/aaf2b214dbe20190415f8e39a564e838))
+ps2 ([SCM]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/11))
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/13))
 {{< tdclose >}}
 {{< tdopen >}}
-ps4 ([SCM](./resolveuid/01d6ada8f4448b96c4570fea8d19fc68))
+ps4 ([SCM]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,9 +72,9 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/15))
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/22))
 {{< tdclose >}}
 {{< tdopen >}}
-module-examples ([SCM](./resolveuid/5ed12445657ee56d2be3797188a60a49))  
-recon ([SCM](./resolveuid/eca193406671dc3da6a59ecaabc3a404))  
-recon-test ([SCM](./resolveuid/850b1f9f09bce270df0020d79c0caaa6))
+module-examples ([SCM]({{< baseurl >}}/resources/moduleexamples))  
+recon ([SCM]({{< baseurl >}}/resources/recon-1))  
+recon-test ([SCM]({{< baseurl >}}/resources/recontest))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,8 +92,8 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/24))
 Problem Set 8 ([PDF]({{< baseurl >}}/resources/27))
 {{< tdclose >}}
 {{< tdopen >}}
-closurize ([SCM](./resolveuid/2f5b28c79117d151a92900002ab66ba0))  
-funrec ([SCM](./resolveuid/1f9696ebc89b1aa98b12712f7f7ad334))
+closurize ([SCM]({{< baseurl >}}/resources/closurize-1))  
+funrec ([SCM]({{< baseurl >}}/resources/funrec-1))
 {{< tdclose >}}
 
 {{< trclose >}}

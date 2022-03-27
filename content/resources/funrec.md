@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
 resourcetype: Document
 title: funrec.pdf
 uid: 34f0a0c0-8ab9-e77a-83fd-318d2caa6057

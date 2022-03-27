@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Handy procedures for 6.821 Problem Set 2, Fall '98.
-file: /media/courses/6-821-programming-languages-fall-2002/aaf2b214dbe20190415f8e39a564e838_ps2.scm
+description: 'recon.scm: TYPE RECONSTRUCTOR FOR Scheme/R'
+file: /media/courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
 resourcetype: Other
-title: ps2.scm
-uid: aaf2b214-dbe2-0190-415f-8e39a564e838
+title: recon.scm
+uid: eca19340-6671-dc3d-a6a5-9ecaabc3a404
 ---

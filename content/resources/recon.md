@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
 resourcetype: Document
 title: recon.pdf
 uid: bcf10eb6-e226-b494-16cf-63a46957bdec

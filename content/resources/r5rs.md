@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: af096f16-05cc-7b62-58d1-35bc8df43053
 resourcetype: Document
 title: r5rs.pdf
 uid: 89a3761e-77b6-adea-3dbf-759abcb27d72

@@ -1,14 +1,15 @@
 ---
 content_type: resource
-description: 'Assignments: recon-test'
-file: /media/courses/6-821-programming-languages-fall-2002/df26a03c14b9ac07fffc153f3a667420_recontest.pdf
-file_type: application/pdf
+description: recon-test.scm. Test the type reconstructor for Scheme/R
+file: /media/courses/6-821-programming-languages-fall-2002/850b1f9f09bce270df0020d79c0caaa6_recontest.scm
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
-resourcetype: Document
-title: recontest.pdf
-uid: df26a03c-14b9-ac07-fffc-153f3a667420
+parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
+resourcetype: Other
+title: recontest.scm
+uid: 850b1f9f-09bc-e270-df00-20d79c0caaa6
 ---
