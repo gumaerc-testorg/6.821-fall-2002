@@ -1,21 +1,19 @@
 ---
 content_type: resource
-description: '6.821 Problem Set #4
-
-  FLEX and FLAT interpreters:
-
-  FLEX = (CBV FL) - recursion
-
-  FLAT = (CBV FL) - recursion - (free vars in procedures) + tuples'
-file: /media/courses/6-821-programming-languages-fall-2002/01d6ada8f4448b96c4570fea8d19fc68_ps4.scm
-file_type: text/plain
+description: 'Assignments: ps4'
+file: /courses/6-821-programming-languages-fall-2002/1f125969c7af698dfeab2e7a0901c5af_ps4.pdf
+file_type: application/pdf
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 1651341d-d0fb-d6a6-7489-a2a52dcafac1
-resourcetype: Other
-title: ps4.scm
-uid: 01d6ada8-f444-8b96-c457-0fea8d19fc68
+resourcetype: Document
+title: ps4.pdf
+uid: 1f125969-c7af-698d-feab-2e7a0901c5af
+video_metadata:
+  youtube_id: null
 ---
+Assignments: ps4
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scheme+ implementation
-file: /media/courses/6-821-programming-languages-fall-2002/562ab809d982156cccf5c758fd7f0557_schemeplus12.scm
+file: /courses/6-821-programming-languages-fall-2002/562ab809d982156cccf5c758fd7f0557_schemeplus12.scm
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: schemeplus12.scm
 uid: 562ab809-d982-156c-ccf5-c758fd7f0557
 ---
+Scheme+ implementation
+

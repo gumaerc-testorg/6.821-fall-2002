@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'recon.scm: TYPE RECONSTRUCTOR FOR Scheme/R'
-file: /media/courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm
+file: /courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: recon.scm
 uid: eca19340-6671-dc3d-a6a5-9ecaabc3a404
 ---
+recon.scm: TYPE RECONSTRUCTOR FOR Scheme/R
+
