@@ -5,6 +5,7 @@ file: /courses/6-821-programming-languages-fall-2002/67a55c1d46c11a2ee774b7e184e
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Scheme+ implementation
-

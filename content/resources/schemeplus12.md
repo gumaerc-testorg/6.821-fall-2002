@@ -5,6 +5,7 @@ file: /courses/6-821-programming-languages-fall-2002/562ab809d982156cccf5c758fd7
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: schemeplus12.scm
 uid: 562ab809-d982-156c-ccf5-c758fd7f0557
 ---
 Scheme+ implementation
-

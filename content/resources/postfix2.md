@@ -5,6 +5,7 @@ file: /courses/6-821-programming-languages-fall-2002/d0654618b2d8c9c73c285405057
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: postfix.scm
 uid: d0654618-b2d8-c9c7-3c28-54050579e1e2
 ---
 This is a denotational interpreter for PostFix
-

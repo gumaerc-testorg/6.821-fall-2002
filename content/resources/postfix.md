@@ -5,6 +5,7 @@ file: /courses/6-821-programming-languages-fall-2002/816c1833dc3d31f7c58cb0d6344
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Assignments: postfix
-
