@@ -1,23 +1,25 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 431305c5-0835-2010-4834-bb85e0d07ef1
+video_metadata:
+  youtube_id: null
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session/ week, 1 hour / session
 
-Staff
------
+## Staff
 
 Lecturer: Michael Ernst
 
-Prerequisites
--------------
+## Prerequisites
 
 In order to take this course, you should have fairly extensive programming experience, some background in language implementation, and a mathematical repertoire including sets, functions, and proofs. The course will be intensive, involving substantial programming assignments and problem sets as well as a significant amount of reading.
 
@@ -25,18 +27,15 @@ We will be using SCHEME+, Scheme with added datatype and pattern matching facili
 
 This course is intended primarily for Computer Science graduate students. Computer science undergraduates and graduate students from other departments are welcome to take the course as enrollment permits. However, be aware that the course is substantially more challenging than an undergraduate course.
 
-Recitation Sections
--------------------
+## Recitation Sections
 
 Each recitation instructor leads one one-hour recitation. This is an interactive forum for answering your questions and going over examples of current material. Please come prepared and bring questions!
 
-Office Hours
-------------
+## Office Hours
 
 Professor Ernst will be available after class and by appointment. The recitation instructor is available during designated office hours. At times other than those listed above, you may call or visit your recitation instructor in his office. However, please keep in mind that your instructor may not always have the time to talk to you in such situations. In order to guarantee that the instructor will have time to see you, it's a better idea to set up an appointment with him ahead of time via electronic mail.
 
-Reading Material
-----------------
+## Reading Material
 
 There is no required text for this course. The reading material will instead consist of course notes and handouts given out during lectures.
 
@@ -48,23 +47,21 @@ If you have any comments on the material in the handouts or course notes, especi
 
 All students are encouraged to acquaint themselves with:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition) Abelson, Harold, and Gerald Jay Sussman with Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition). 2nd ed. MIT Press, 1996. ISBN: 0262011530.
+![Buy at MIT Press](/images/mp_logo.gif) Abelson, Harold, and Gerald Jay Sussman with Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition). 2nd ed. MIT Press, 1996. ISBN: 0262011530.
 
 This excellent text (hereafter referred to as SICP) is used as the basis of the introductory course in computation (6.001). It is outstanding for its high-level view of computer science (emphasizing controlling the complexity of large systems and the use of computer languages as a means of expression) as well as the density of wonderful examples that can be found between its covers (a symbolic mathematics package, a constraint system, a digital logic simulator, a logic language interpreter,a compiler, etc.) SICP, as well as several other books we will reference during the course.
 
-Problem Sets
-------------
+## Problem Sets
 
 You will be given weekly problem sets throughout the term. Problem sets will typically have both pencil-and-paper problems and programming problems. Be forewarned that many of the problems, especially the programming assignments, are challenging and may take a significant amount of time. Plan your time accordingly. Don't wait until the last minute to start your problem sets!
 
 You may write up the non-programming problems in any reasonable (but legible) format. Problem sets are graded on content, not form. In particular, it is not necessary to typeset your problem sets. We discourage you from wasting your time with a text formatter unless you find it convenient to do so. Some guidelines for the programming assignments are included in the last section of this handout.
 
-If you do not think you will be able to complete a problem set on time, you may request an extension from your recitation instructor. The more advanced the notice you give your instructor, the more likely you are to be granted an extension. Extensions requested on the due date will be denied. And note that, usually,problem sets are handed out on Tuesday and are due the following Tuesday, and solutions may be discussed in the Friday recitations. Problem sets will not be accepted after solutions have been handed out.
+If you do not think you will be able to complete a problem set on time, you may request an extension from your recitation instructor. The more advanced the notice you give your instructor, the more likely you are to be granted an extension. Extensions requested on the due date will be denied. And note that, usually, problem sets are handed out on Tuesday and are due the following Tuesday, and solutions may be discussed in the Friday recitations. Problem sets will not be accepted after solutions have been handed out.
 
 This policy implies that you must be realistic in scheduling your time and should begin working on your problem sets well in advance of the due date.
 
-Exams
------
+## Exams
 
 There will be two exams in the course:
 
@@ -72,20 +69,17 @@ a. A 1.5 hour in-class midterm. This exam will cover the course material up to a
 
 b. A 3 hour exam during finals week. This exam will cover all of the material from the course.
 
-Grades
-------
+## Grades
 
 Your grade will be computed based upon your final exam, your midterm quiz, your problem set grades, and your recitation instructor's recommendations. The last time this course was taught, the weighting on these factors was 40%, 30%, and 30%, for the final, midterm, and problem sets respectively, with the instructor's recommendations coming into play in borderline cases. (This is just to give you a sense for the relative weighting; we do not guarantee that the weighting will be the same this year.) Your recitation instructor's opinion of your understanding of the material is formed primarily by the quality and clarity of your problem set solutions as well as your classroom participation.
 
-Finding Help
-------------
+## Finding Help
 
 There are many people who can answer your questions or help you better understand the course material. Your recitation instructor leads an hour-long recitation once each week, holds office hours, and also grades your papers. Make good use of your instructors! Feel free to talk with them after class and during office hours; make appointments to see them at other times. You can always send them electronic mail.
 
 When looking for help, don't overlook other students — not only those who have taken the course in the past, but your classmates as well. Your classmates are a valuable resource; don't forget about them! In fact, we suggest that other students be your first "line of defense" when you have a question about course material. When possible, you should first pose your question to at least one classmate before bringing it to an instructor.
 
-Collaboration Policy
---------------------
+## Collaboration Policy
 
 In 6.821 you are likely to learn just as much (if not more) from other students as you are from your classroom experiences. Since we believe that collaboration fosters a healthy and enjoyable educational environment,we encourage you to talk with other students about the course and to form study groups. We especially encourage collaboration between students who were (or are) MIT Course 6 undergraduates and students from other departments and institutions.
 
@@ -95,10 +89,9 @@ When working on problem set problems, it is perfectly reasonable to consult publ
 
 Problem sets and solutions from previous terms of 6.821 are not considered to be part of the 'public' literature. We require you to refrain from looking at any problem set solutions from previous terms of 6.821 (unless, of course, we explicitly tell you to do so). It is our policy that consulting previous problem set solutions constitutes cheating.
 
-Guidelines for Programming Assignments
---------------------------------------
+## Guidelines for Programming Assignments
 
-Most of your programming assignments will involve extending or modifying code that we provide. You should turn in all the code that you write. If you make substansive modifications, you should turn in the entire program with your changes clearly marked. If you only make minor changes or they are limited to a few procedures, it is only necessary to turn in those procedures with a note indicating how your modifications interact with the unchanged code.
+Most of your programming assignments will involve extending or modifying code that we provide. You should turn in all the code that you write. If you make substantive modifications, you should turn in the entire program with your changes clearly marked. If you only make minor changes or they are limited to a few procedures, it is only necessary to turn in those procedures with a note indicating how your modifications interact with the unchanged code.
 
 To convince your graders that your program correctly implements the desired functions, you should
 
