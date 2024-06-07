@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: closurize'
 file: /courses/6-821-programming-languages-fall-2002/7518939a7b50586a74a2142553250523_closurize.pdf
+file_size: 49094
 file_type: application/pdf
 learning_resource_types:
 - Assignments
