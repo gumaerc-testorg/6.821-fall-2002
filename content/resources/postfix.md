@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: postfix'
 file: /courses/6-821-programming-languages-fall-2002/816c1833dc3d31f7c58cb0d634406a0a_postfix.pdf
+file_size: 78880
 file_type: application/pdf
 learning_resource_types:
 - Assignments
