@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: funrec'
 file: /courses/6-821-programming-languages-fall-2002/34f0a0c08ab9e77a83fd318d2caa6057_funrec.pdf
+file_size: 113283
 file_type: application/pdf
 learning_resource_types:
 - Assignments

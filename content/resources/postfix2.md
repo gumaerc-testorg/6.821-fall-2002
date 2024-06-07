@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a denotational interpreter for PostFix
 file: /courses/6-821-programming-languages-fall-2002/d0654618b2d8c9c73c2854050579e1e2_postfix.scm
+file_size: 6140
 file_type: text/plain
 learning_resource_types:
 - Assignments

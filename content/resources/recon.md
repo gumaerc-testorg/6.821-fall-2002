@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: recon'
 file: /courses/6-821-programming-languages-fall-2002/bcf10eb6e226b49416cf63a46957bdec_recon.pdf
+file_size: 209458
 file_type: application/pdf
 learning_resource_types:
 - Assignments
