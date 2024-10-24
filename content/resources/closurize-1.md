@@ -3,7 +3,7 @@ content_type: resource
 description: 'A closure converter that makes flat closures for all LAMBDAs and FUNRECs.
 
   Writing CLOSURIZE-FUNREC is left as an exercise.'
-file: /courses/6-821-programming-languages-fall-2002/2f5b28c79117d151a92900002ab66ba0_closurize.scm
+file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/2f5b28c79117d151a92900002ab66ba0_closurize.scm
 file_size: 1547
 file_type: text/plain
 learning_resource_types:
