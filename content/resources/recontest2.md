@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: recon-test.scm. Test the type reconstructor for Scheme/R
-file: /courses/6-821-programming-languages-fall-2002/850b1f9f09bce270df0020d79c0caaa6_recontest.scm
+file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/850b1f9f09bce270df0020d79c0caaa6_recontest.scm
 file_size: 6470
 file_type: text/plain
 learning_resource_types:
