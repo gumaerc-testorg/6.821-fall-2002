@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Revised Report on the Algorithmic Language Scheme
-file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/89a3761e77b6adea3dbf759abcb27d72_r5rs.pdf
+file: /courses/6-821-programming-languages-fall-2002/89a3761e77b6adea3dbf759abcb27d72_r5rs.pdf
 file_size: 645595
 file_type: application/pdf
 learning_resource_types:
