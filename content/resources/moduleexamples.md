@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: module-examples'
-file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf
+file: /courses/6-821-programming-languages-fall-2002/352ab91885c4fd25b4920fa946e73d7f_moduleexamples.pdf
 file_size: 30810
 file_type: application/pdf
 learning_resource_types:
