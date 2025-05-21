@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scheme+ implementation
-file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/67a55c1d46c11a2ee774b7e184e3869c_scheme12.pdf
+file: /courses/6-821-programming-languages-fall-2002/67a55c1d46c11a2ee774b7e184e3869c_scheme12.pdf
 file_size: 313482
 file_type: application/pdf
 learning_resource_types:

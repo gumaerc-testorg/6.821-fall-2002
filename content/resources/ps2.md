@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: ps2'
-file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/7dfa4dc272b272251c0276ed15bec6f2_ps2.pdf
+file: /courses/6-821-programming-languages-fall-2002/7dfa4dc272b272251c0276ed15bec6f2_ps2.pdf
 file_size: 63856
 file_type: application/pdf
 learning_resource_types:

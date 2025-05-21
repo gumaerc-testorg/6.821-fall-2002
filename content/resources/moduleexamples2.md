@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[module examples]'
-file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/5ed12445657ee56d2be3797188a60a49_moduleexamples.scm
+file: /courses/6-821-programming-languages-fall-2002/5ed12445657ee56d2be3797188a60a49_moduleexamples.scm
 file_size: 326
 file_type: text/plain
 learning_resource_types:
