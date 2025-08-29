@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: recon-test'
-file: /courses/6-821-programming-languages-fall-2002/df26a03c14b9ac07fffc153f3a667420_recontest.pdf
+file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/df26a03c14b9ac07fffc153f3a667420_recontest.pdf
 file_size: 91406
 file_type: application/pdf
 learning_resource_types:
