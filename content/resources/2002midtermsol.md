@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2002 Midterm Solutions
-file: /courses/6-821-programming-languages-fall-2002/5a074cc56e7c92bc1223e2996620a112_2002midtermsol.pdf
+file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/5a074cc56e7c92bc1223e2996620a112_2002midtermsol.pdf
 file_size: 86037
 file_type: application/pdf
 learning_resource_types:

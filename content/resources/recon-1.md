@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'recon.scm: TYPE RECONSTRUCTOR FOR Scheme/R'
-file: /courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm
+file: /ol-ocw-studio-app/courses/6-821-programming-languages-fall-2002/eca193406671dc3da6a59ecaabc3a404_recon.scm
 file_size: 30477
 file_type: text/plain
 learning_resource_types:
