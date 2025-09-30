@@ -47,7 +47,7 @@ If you have any comments on the material in the handouts or course notes, especi
 
 All students are encouraged to acquaint themselves with:
 
-![Buy at MIT Press](/images/mp_logo.gif) Abelson, Harold, and Gerald Jay Sussman with Julie Sussman. [_Structure and Interpretation of Computer Programs_](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition). 2nd ed. MIT Press, 1996. ISBN: 0262011530.
+![Buy at MIT Press](/images/mp_logo.gif) Abelson, Harold, and Gerald Jay Sussman with Julie Sussman. {{% resource_link "e6613596-26db-4d93-a015-d0efe44b9bfb" "_Structure and Interpretation of Computer Programs_" %}}. 2nd ed. MIT Press, 1996. ISBN: 0262011530.
 
 This excellent text (hereafter referred to as SICP) is used as the basis of the introductory course in computation (6.001). It is outstanding for its high-level view of computer science (emphasizing controlling the complexity of large systems and the use of computer languages as a means of expression) as well as the density of wonderful examples that can be found between its covers (a symbolic mathematics package, a constraint system, a digital logic simulator, a logic language interpreter,a compiler, etc.) SICP, as well as several other books we will reference during the course.
 
